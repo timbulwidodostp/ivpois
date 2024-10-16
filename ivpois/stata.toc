@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ivpois Estimate an instrumental variables IV/GMM Poisson regression Use ivpois With STATA 18
