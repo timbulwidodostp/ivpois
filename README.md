@@ -1,6 +1,8 @@
 # ivpois
 Estimate an instrumental variables IV/GMM Poisson regression Use ivpois With STATA 18
 
+https://www.youtube.com/watch?v=prD_PAzi78Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
